@@ -1,0 +1,4 @@
+This is a library that will do a dictionary attack on an AIM login. To
+use it, you must capture the challenge and response parts of the OSCAR
+authentication process and provide a dictionary file.
+
